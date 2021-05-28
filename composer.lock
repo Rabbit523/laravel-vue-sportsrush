@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "cloudinary/cloudinary_php",
-            "version": "2.1.1",
+            "version": "2.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cloudinary/cloudinary_php.git",
-                "reference": "71f6f3289e3e17bf7c69bc378d0d69596e530f79"
+                "reference": "c9dee2473af1c2f04aa7f9bbc816a4a821084ce2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cloudinary/cloudinary_php/zipball/71f6f3289e3e17bf7c69bc378d0d69596e530f79",
-                "reference": "71f6f3289e3e17bf7c69bc378d0d69596e530f79",
+                "url": "https://api.github.com/repos/cloudinary/cloudinary_php/zipball/c9dee2473af1c2f04aa7f9bbc816a4a821084ce2",
+                "reference": "c9dee2473af1c2f04aa7f9bbc816a4a821084ce2",
                 "shasum": ""
             },
             "require": {
@@ -65,9 +65,9 @@
             "support": {
                 "email": "info@cloudinary.com",
                 "issues": "https://github.com/cloudinary/cloudinary_php/issues",
-                "source": "https://github.com/cloudinary/cloudinary_php/tree/2.1.1"
+                "source": "https://github.com/cloudinary/cloudinary_php/tree/2.2.0"
             },
-            "time": "2021-03-17T00:47:44+00:00"
+            "time": "2021-05-12T12:58:29+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -650,16 +650,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.8.1",
+            "version": "1.8.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "35ea11d335fd638b5882ff1725228b3d35496ab1"
+                "reference": "dc960a912984efb74d0a90222870c72c87f10c91"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/35ea11d335fd638b5882ff1725228b3d35496ab1",
-                "reference": "35ea11d335fd638b5882ff1725228b3d35496ab1",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/dc960a912984efb74d0a90222870c72c87f10c91",
+                "reference": "dc960a912984efb74d0a90222870c72c87f10c91",
                 "shasum": ""
             },
             "require": {
@@ -719,9 +719,9 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/1.8.1"
+                "source": "https://github.com/guzzle/psr7/tree/1.8.2"
             },
-            "time": "2021-03-21T16:25:00+00:00"
+            "time": "2021-04-26T09:17:50+00:00"
         },
         {
             "name": "laravel/framework",
