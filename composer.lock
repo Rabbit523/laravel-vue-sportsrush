@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "cloudinary/cloudinary_php",
-            "version": "2.4.1",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cloudinary/cloudinary_php.git",
-                "reference": "d4dc8e2b1b6c5f30e291d0fc136b84d08f0a31b6"
+                "reference": "f7583376a66c7b5e0ef0632b56d7c2be9960c6e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cloudinary/cloudinary_php/zipball/d4dc8e2b1b6c5f30e291d0fc136b84d08f0a31b6",
-                "reference": "d4dc8e2b1b6c5f30e291d0fc136b84d08f0a31b6",
+                "url": "https://api.github.com/repos/cloudinary/cloudinary_php/zipball/f7583376a66c7b5e0ef0632b56d7c2be9960c6e8",
+                "reference": "f7583376a66c7b5e0ef0632b56d7c2be9960c6e8",
                 "shasum": ""
             },
             "require": {
@@ -66,9 +66,9 @@
             "support": {
                 "email": "info@cloudinary.com",
                 "issues": "https://github.com/cloudinary/cloudinary_php/issues",
-                "source": "https://github.com/cloudinary/cloudinary_php/tree/2.4.1"
+                "source": "https://github.com/cloudinary/cloudinary_php/tree/2.5.0"
             },
-            "time": "2021-10-15T01:39:14+00:00"
+            "time": "2021-11-10T13:20:53+00:00"
         },
         {
             "name": "dnoegel/php-xdg-base-dir",
@@ -596,16 +596,16 @@
         },
         {
             "name": "guzzlehttp/promises",
-            "version": "1.5.0",
+            "version": "1.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/promises.git",
-                "reference": "136a635e2b4a49b9d79e9c8fee267ffb257fdba0"
+                "reference": "fe752aedc9fd8fcca3fe7ad05d419d32998a06da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/promises/zipball/136a635e2b4a49b9d79e9c8fee267ffb257fdba0",
-                "reference": "136a635e2b4a49b9d79e9c8fee267ffb257fdba0",
+                "url": "https://api.github.com/repos/guzzle/promises/zipball/fe752aedc9fd8fcca3fe7ad05d419d32998a06da",
+                "reference": "fe752aedc9fd8fcca3fe7ad05d419d32998a06da",
                 "shasum": ""
             },
             "require": {
@@ -660,7 +660,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/promises/issues",
-                "source": "https://github.com/guzzle/promises/tree/1.5.0"
+                "source": "https://github.com/guzzle/promises/tree/1.5.1"
             },
             "funding": [
                 {
@@ -676,7 +676,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-07T13:05:22+00:00"
+            "time": "2021-10-22T20:56:57+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
