@@ -3512,10 +3512,10 @@ isstream@~0.1.2:
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
   integrity sha1-R+Y/evVa+m+S4VAOaQ64uFKcCZo=
 
-jquery@^3.1.0:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.0.tgz#c72a09f15c1bdce142f49dbf1170bdf8adac2470"
-  integrity sha512-JVzAR/AjBvVt2BmYhxRCSYysDsPcssdmTFnzyLEts9qNwmjmu4JTAMYubEfwVOSwpQ1I1sKKFcxhZCI2buerfw==
+jquery@^3.6.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.6.2.tgz#8302bbc9160646f507bdf59d136a478b312783c4"
+  integrity sha512-/e7ulNIEEYk1Z/l4X0vpxGt+B/dNsV8ghOPAWZaJs8pkGvsSC0tm33aMGylXcj/U7y4IcvwtMXPMyBFZn/gK9A==
 
 js-base64@^2.1.8, js-base64@^2.1.9:
   version "2.6.4"
